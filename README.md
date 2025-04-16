@@ -6,7 +6,7 @@ I'm a Computer Science undergrad at the University of Utah with a strong interes
 - 🔍 Looking for Summer 2025 internships
 - 🛠️ Languages: Java, C++, C#, Python, JavaScript, PHP
 - 🧰 Tools & Tech: Git, MySQL, Docker, SSH, Linux, VSCode, Visual Studio
-- 📚 Favorite Topics: Data Structures, Operating Systems, Web Dev, UI/UX Design
+- 📚 Favorite Topics: Data Structures, Operating Systems, AI, UI/UX Design
 
 ---
 
