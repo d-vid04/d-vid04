@@ -31,5 +31,6 @@ Dynamic spreadsheet built with C#, HTML
 ## 📬 Contact Me
 
 - 📧 Email: [davidbbrown.004@gmail.com](mailto:davidbbrown.004@gmail.com)
+- LinkedIn: www.linkedin.com/in/david-brown-305ba3298
 
 ---
