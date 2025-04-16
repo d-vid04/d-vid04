@@ -16,12 +16,12 @@ I'm a Computer Science undergrad at the University of Utah with a strong interes
 
 ### 🐍 Multiplayer Snake Game *(Private)*
 Real-time multiplayer snake game built using MVC architecture and database integration.
-- Built with JavaScript, Node.js, SQL
+- Built with C#, HTML, SQL
 - Uses WebSockets for real-time play
 - Stored game state in MySQL
 
 ### 🧮 Spreadsheet Web App *(Private)*
-Dynamic spreadsheet built with HTML, CSS, and JavaScript.
+Dynamic spreadsheet built with C#, HTML
 - Features cell editing, formulas, undo
 - Tested with unit and functional testing
 - Developed in a 2-person team using Git for version control
